@@ -23,16 +23,16 @@ It follows **Monkey D. Luffy** and his crew, the Straw Hat Pirates, on their adv
 
 ## Main Characters
 
-- **Monkey D. Luffy** – Rubber-powered captain who dreams of becoming the Pirate King  
-- **Roronoa Zoro** – Swordsman aiming to become the world’s greatest  
-- **Nami** – Skilled navigator and cartographer  
-- **Usopp** – Inventive sharpshooter and storyteller  
-- **Sanji** – Chef who fights with powerful kicks  
-- **Tony Tony Chopper** – Reindeer doctor with transformation powers  
-- **Nico Robin** – Archaeologist seeking the true history  
-- **Franky** – Cyborg shipwright who built the Thousand Sunny  
-- **Brook** – Skeleton musician revived by the Revive-Revive Fruit  
-- **Jinbe** – Fish-man helmsman and former Warlord of the Sea  
+- **Monkey D. Luffy** – The captain and founder who wants to become the King of the Pirates.
+- **Roronoa Zoro** – The fearless swordsman who seeks to be the world’s strongest. 
+- **Nami** – The clever navigator who dreams of mapping the entire world.
+- **Usopp** – The sharpshooter and storyteller striving to be a brave warrior of the sea. 
+- **Sanji** – The chivalrous cook who fights with kicks and protects his friends. 
+- **Tony Tony Chopper** – The reindeer doctor who can transform and dreams of curing any disease.
+- **Nico Robin** – The calm archaeologist searching for the true history of the world.
+- **Franky** – The cyborg shipwright who built the Thousand Sunny.
+- **Brook** – The lively musician and skeleton swordsman who brings joy to the crew.
+- **Jinbe** – The wise fish-man helmsman who values honor, peace, and loyalty.  
 
 ---
 
